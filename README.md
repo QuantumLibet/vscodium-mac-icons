@@ -13,7 +13,7 @@ After each update of VSCodium, run the script `restore_vscodium_icons_on_macos.s
 
 ### icon history
 
-The original icons were proposed in this thread by [clarsonneur](https://github.com/clarsonneur) and voted upon in [issue 4](https://github.com/VSCodium/vscodium/issues/4).
+The original icons (included in this repo) were proposed in this thread by [clarsonneur](https://github.com/clarsonneur) and voted upon in [issue 4](https://github.com/VSCodium/vscodium/issues/4).
 
 <br>
 
