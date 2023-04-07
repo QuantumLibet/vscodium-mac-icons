@@ -1,12 +1,12 @@
 # vscodium_mac_icons
-<br>
+
 The original icons as used in VSCodium until v1.76.2.23074
-<br>
+
 After each update of VSCodium, run the script in this repo to restore the original files.
-<br>
-<br>
+
+
 This is the second time the VSCodium developers and maintainers have decided on a visual change that affects all users.
-<br>
+
 The first try was with release 1.47.3 on 2020-07-28 with an icon set by https://github.com/cristianovitorino (their user handle being "estatra" at that point in time) and based on the poll https://github.com/VSCodium/vscodium/issues/313.
 After the new version with the updated logo has been released, it did not find everybodys appreciation and was reverted to the original icon in 2020-11-20 the same year. https://github.com/VSCodium/vscodium/pull/582
 <br>
