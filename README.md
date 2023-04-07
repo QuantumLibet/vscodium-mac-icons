@@ -6,7 +6,7 @@ The original icons as used in VSCodium until v1.76.2.23074
 <br>
 
 ### tl;dr
-After each update of VSCodium, run the script restore_vscodium_icons_on_macos.sh` in this repo to restore the original files.
+After each update of VSCodium, run the script `restore_vscodium_icons_on_macos.sh` in this repo to restore the original files.
 
 <br>
 <br>
